@@ -7,4 +7,4 @@
 !
 
 ! 12/11/2020 https://www.spigotmc.org
-||proxy.spigotmc.org/68a87a020197d7cd415bd6c21384e3339e778102?url=https%3A%2F%2Fi.imgur.com%2FosTchpI.png$image
+||proxy.spigotmc.org/68a87a020197d7cd415bd6c21384e3339e778102?url=https%3A%2F%2Fi.imgur.com%2FosTchpI.png
